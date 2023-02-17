@@ -77,6 +77,8 @@ namespace Lesson5Extra.Models
 
         public int CountOfDoors { get; set; }
 
+        public string Field2 { get; set; }
+
         public int CompareTo(object? obj)
         {
             var x = obj as Car;
