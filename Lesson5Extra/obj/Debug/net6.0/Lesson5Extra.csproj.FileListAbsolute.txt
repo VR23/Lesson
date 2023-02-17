@@ -1,0 +1,15 @@
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\bin\Debug\net6.0\Lesson5Extra.exe
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\bin\Debug\net6.0\Lesson5Extra.deps.json
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\bin\Debug\net6.0\Lesson5Extra.runtimeconfig.json
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\bin\Debug\net6.0\Lesson5Extra.dll
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\bin\Debug\net6.0\Lesson5Extra.pdb
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.csproj.AssemblyReference.cache
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.AssemblyInfoInputs.cache
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.AssemblyInfo.cs
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.csproj.CoreCompileInputs.cache
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.dll
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\refint\Lesson5Extra.dll
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.pdb
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\Lesson5Extra.genruntimeconfig.cache
+C:\Users\Валя\Downloads\Lesson5Extra\Lesson5Extra\obj\Debug\net6.0\ref\Lesson5Extra.dll
