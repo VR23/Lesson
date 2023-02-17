@@ -11,7 +11,7 @@ namespace Lesson5Extra.Repositories
                 new Car()
                 {
                     Color = "Black",
-                    YearsOfRelease = 2018,
+                    YearsOfRelease = 2013,
                     Mileage = 27_000,
                     Engine = new Engine()
                     {
@@ -28,7 +28,7 @@ namespace Lesson5Extra.Repositories
                 },
                 new Car()
                 {
-                    Color = "Black",
+                    Color = "Silver",
                     YearsOfRelease = 2007,
                     Mileage = 200_000,
                     Engine = new Engine()
