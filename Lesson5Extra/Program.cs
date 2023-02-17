@@ -10,9 +10,8 @@ public class Program
         var result = cars.Where(x => x.CompareTo(changedCars.Where(y => y.Vin == x.Vin).Single()) > 0).ToList();
         foreach (var item in result)
         {
-            Console.WriteLine($"Измененная машина : Марка машины: {item.Brand} Модель машины: {item.Model}");
+            Console.WriteLine($"Измененная машина: Марка машины: {item.Brand} Модель машины: {item.Model}");
         }
-
 
         foreach (var car in cars)
         {
@@ -20,11 +19,9 @@ public class Program
             {
                 if (car.Vin == changedCar.Vin)
                 {
-
                     int res = car.CompareTo(changedCar);
                     if (res > 0)
                     {
-
                         Console.WriteLine($"Марка машины: {car.Brand} Модель машины: {car.Model}");
                     }
                 }
@@ -32,6 +29,5 @@ public class Program
         }
 
         Console.ReadKey();
-
     }
 }
