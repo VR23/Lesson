@@ -73,6 +73,8 @@ namespace Lesson5Extra.Models
         /// </summary>
         public DateTime UpdateAt { get; set; }
 
+        public int MaxSpeed { get; set; }
+
         public int CompareTo(object? obj)
         {
             var x = obj as Car;
